@@ -1,8 +1,8 @@
 <div align="center">
 
-## 🚀 Keep Coding, Keep Growing  
+## 🕵️‍♂️ Quality is not an act, it's a habit ✅  
 
-*"Every bug you fix takes you one step closer to mastery.*  
-*Code. Debug. Learn. Repeat."*
+*"A great tester isn’t the one who finds the most bugs…*  
+*but the one who ensures the product has the least."*
 
 </div>
